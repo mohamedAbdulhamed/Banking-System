@@ -14,3 +14,20 @@ OOP - Functional Programming - Files (حفظ واسترجاع وتعديل ال�
 - Deposit and withdraw money from accounts.
 - Transfer money between accounts.
 - Allow customers to view their accounts information => (account balance, resent transactions, other details).
+
+## Data
+* Customer
+  * ID (Int)
+  * Name (String)
+  * Address (String)
+* Account
+  * ID (Int)
+  * Balance (Double)
+  * Customer (Customer)
+* Transaction
+  * ID (Int)
+  * Amount (Double)
+  * From (Account)
+  * To (Account)
+  * Type (String)
+  * Date (Date)

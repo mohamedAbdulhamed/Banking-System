@@ -1,13 +1,18 @@
 # Banking System
 
 ## Requirements
-OOP - Functional Programming - Files (حفظ واسترجاع وتعديل البيانات) - Actor System (Akka)
+OOP - Functional Programming - MySQL (حفظ واسترجاع وتعديل البيانات) - Actor System (Akka)
 
 ## Classes
 - Customer
 - Account
 - Transaction
-- Banking Services
+  
+| CLASS       | **C** | **R** | **U** | **D** |
+|-------------|:-----:|:-----:|:-----:|:-----:|
+| _Customer_  | ✓     | ✓     | ✓     | ✓     |
+| Account     | ✓     | ✓     |       | ✓     |
+| Transaction | ✓     |       |       | ✓     |
 
 ## Features
 - Createing and managing accounts, customers and transactions.

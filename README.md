@@ -8,11 +8,11 @@ OOP - Functional Programming - MySQL (حفظ واسترجاع وتعديل ال�
 - Account
 - Transaction
   
-| CLASS       | **C** | **R** | **U** | **D** |
-|-------------|:-----:|:-----:|:-----:|:-----:|
-| _Customer_  | ✓     | ✓     | ✓     | ✓     |
-| Account     | ✓     | ✓     |       | ✓     |
-| Transaction | ✓     |       |       | ✓     |
+| CLASS         | **C** | **R** | **U** | **D** |
+|---------------|:-----:|:-----:|:-----:|:-----:|
+| _Customer_    | ✓     | ✓     | ✓     | ✓     |
+| _Account_     | ✓     | ✓     |       | ✓     |
+| _Transaction_ | ✓     | ✓     |       |       |
 
 ## Features
 - Createing and managing accounts, customers and transactions.

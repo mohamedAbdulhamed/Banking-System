@@ -15,7 +15,7 @@ OOP - Functional Programming - MySQL (حفظ واسترجاع وتعديل ال�
 | _Transaction_ | ✓     | ✓     |       |       |
 
 ## Features
-- Createing and managing accounts, customers and transactions.
+- Creating and managing accounts, customers and transactions.
 - Deposit and withdraw money from accounts.
 - Transfer money between accounts.
 - Allow customers to view their accounts information => (account balance, resent transactions, other details).
